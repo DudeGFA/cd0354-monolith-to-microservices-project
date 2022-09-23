@@ -52,3 +52,4 @@ frontend-deployment.yaml
 reverseproxy-deployment.yaml
 reverseproxy-service.yaml
 kubectl deployment files
+udagram-api-user\mock
